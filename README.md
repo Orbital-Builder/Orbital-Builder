@@ -3,8 +3,11 @@
 Python developer training on udemy 🐍
 
 Special thanks to :
+
 Jean-Philippe Parein and his courses on udemy.com as well as the different books that are a precious help. 💡
+
 Python for dummies 4th edition by John Paul Mueller. 📖
+
 Amazon kindle : Python for beginners by Daniel Correa - Paola Vallejo - Ronald Martinod. 📖
 
 <!--
