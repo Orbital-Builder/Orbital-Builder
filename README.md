@@ -1,5 +1,11 @@
-## Hello I'm Orbital-Builder 👋
-Python developer training on udemy.
+## Hello I'm Orbital-Builder👋
+
+Python developer training on udemy 🐍
+
+Special thanks to :
+Jean-Philippe Parein and his courses on udemy.com as well as the different books that are a precious help. 💡
+Python for dummies 4th edition by John Paul Mueller. 📖
+Amazon kindle : Python for beginners by Daniel Correa - Paola Vallejo - Ronald Martinod. 📖
 
 <!--
 **Orbital-Builder/Orbital-Builder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
