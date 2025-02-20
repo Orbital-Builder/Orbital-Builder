@@ -2,7 +2,7 @@
 
 Python developer training on udemy 🐍
 
-Special thanks to :
+Special thanks to 🤖
 
 Jean-Philippe Parein and his courses on udemy.com as well as the different books that are a precious help. 💡
 
