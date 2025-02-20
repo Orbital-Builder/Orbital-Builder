@@ -1,4 +1,5 @@
-## Hi there 👋
+## Hello I'm Orbital-Builder 👋
+Python developer training on udemy.
 
 <!--
 **Orbital-Builder/Orbital-Builder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
